@@ -8,13 +8,13 @@ Si eseguono perizie su scritture manoscritte o dattiloscritte, indagini sull’i
 
 Per richiedere una consulenza [Compilate il form di richiesta](https://www.perizie-grafologiche-cagliari.it/richiesta-consulenza/).
 
-```markdown
 ## DOVE SIAMO
 Via Giotto, 38/a Cagliari
 [Vai alla mappa](https://www.perizie-grafologiche-cagliari.it/dove-siamo-perizie-grafologiche-cagliari/).
 
 
+## QUANTO COSTA
 
-### Support or Contact
+Una perizia può avere costi differenti in base a numerosi fattori. [Quanto costa una perizie grafologica?](https://www.perizie-grafologiche-cagliari.it/quanto-costa/).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
